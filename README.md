@@ -12,7 +12,8 @@ In order to achieve my goal, I tried to find some teaching reflection reports an
 
 The AI-generated report is that this:
 
-![](C:\Users\kingx\Desktop\Teaching Reflection Model V1.0\pictures\QQ20250214-164650.png)
+![test](https://github.com/TerimaLabX/AI-Teaching-Reflection-Model/blob/main/Training%20Picture.png)
+
 
 ## How to use
 
